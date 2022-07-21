@@ -1,7 +1,7 @@
 
 # Hello folks👋
 
-My name is Chris Deprez and i'm a network/system engineer and hobby developer/scripter. I'm from Belgium, living in Antwerp and currently working at Officenter. You can find me on 
+My name is Chris Deprez and i'm a network/system engineer and hobby developer/scripter. I'm from Belgium, living in Antwerp and currently working at [Officenter](https://officenter.eu/) as IT manager. You can find me on 
 <div id="badges">
   <a href="https://twitter.com/Krikke_99">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
