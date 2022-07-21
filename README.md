@@ -1,21 +1,14 @@
-### Hi there 👋
 
-<!--
-**Krikke99/Krikke99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello folks👋
 
-Here are some ideas to get you started:
+My name is Chris Deprez and i'm a network/system engineer and hobby developer/scripter. I'm from Belgium, living in Antwerp and currently working at Officenter. You can find me on 
+<div id="badges">
+  <a href="https://twitter.com/Krikke_99">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio"  alt="Visualstudio" width="40" height="40"/>&nbsp;
@@ -28,4 +21,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+
+  ## &#x1f4c8; GitHub Stats
+
+<img src="https://komarev.com/ghpvc/?username=Krikke99&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/Krikke99/Krikke99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krikke99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Krikke's GitHub Stats" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krikke99&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
