@@ -3,8 +3,11 @@
 
 My name is Chris Deprez and i'm a network/system engineer and hobby developer/scripter. I'm from Belgium, living in Antwerp and currently working at [Officenter](https://officenter.eu/) as IT manager. You can find me on 
 <div id="badges">
-  <a href="https://twitter.com/Krikke_99">
+  <a href="https://twitter.com/Krikke_99" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chris-deprez-b6ba9578/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
 
