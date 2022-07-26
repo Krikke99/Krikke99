@@ -13,32 +13,60 @@ My name is Chris Deprez and i'm a network/system engineer and hobby developer/sc
 
 ## :hammer_and_wrench: Languages and Tools:
 <div id="Lang">
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
   </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio"  alt="Visualstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet"  alt="Dotnet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp"  alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio"  alt="Visualstudio" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet"  alt="Dotnet" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://docs.microsoft.com/nl-nl/dotnet/csharp/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp"  alt="Csharp" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ## :computer: Operating systems:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ububntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" title="Gentoo" alt="Gentoo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ububntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.gentoo.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" title="Gentoo" alt="Gentoo" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+  </a>
 </div>
   
 ## :cloud: Cloud:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  </a>
 </div>
 
 ## &#x1f4c8; GitHub Stats:
