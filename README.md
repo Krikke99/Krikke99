@@ -12,8 +12,10 @@ My name is Chris Deprez and i'm a network/system engineer and hobby developer/sc
 </div>
 
 ## :hammer_and_wrench: Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+<div id="Lang">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio"  alt="Visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet"  alt="Dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
